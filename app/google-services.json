@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "851655878895",
+    "project_id": "climbsense-25833",
+    "storage_bucket": "climbsense-25833.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851655878895:android:9a7e9458be3751f2ed531a",
+        "android_client_info": {
+          "package_name": "com.climbsense.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851655878895-mqhrplj731rhh0k5nhgkm8ln80h82ufo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzWMhNOGoD5EDgmv7vQEFpEV_soQlyaWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851655878895-mqhrplj731rhh0k5nhgkm8ln80h82ufo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

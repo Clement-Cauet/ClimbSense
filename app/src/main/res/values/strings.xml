@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">ClimbSense</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_climb">Climb</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_chart">Chart</string>
+    <string name="title_connection">Connection</string>
+
+    <string name="control_yes">Yes</string>
+    <string name="control_no">No</string>
+    <string name="control_return">Return</string>
+    <string name="control_save">Save</string>
+    <string name="control_add">Add</string>
+    <string name="control_delete">Delete</string>
+    <string name="control_download">Download</string>
+    <string name="control_share">Share</string>
+    
+    <string name="start_climb_title">Start Climb</string>
+    <string name="stop_climb_title">Stop Climb</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="register">Register</string>
+
+    <string name="imc_title">IMC</string>
+    <string name="imc_thinness">Thinness</string>
+    <string name="imc_normal">Normal</string>
+    <string name="imc_overweight">Overweight</string>
+    <string name="imc_moderate_obesity">Moderate obesity</string>
+    <string name="imc_severe_obesity">Severe obesity</string>
+    
+    <string name="date_start">Date start</string>
+    <string name="date_end">Date end</string>
+    <string name="duration">Duration</string>
+    <string name="day">Day</string>
+    <string name="chart_height">Height</string>
+    <string name="chart_acceleration">Acceleration</string>
+    <string name="chart_temperature">Temperature</string>
+    <string name="chart_humidity">Humidity</string>
+    <string name="chart_bpm">BPM</string>
+    
+    <string name="chronometer_text">00:00:00</string>
+    <string name="height_text">0</string>
+    <string name="height_unit">m</string>
+    <string name="bpm_text">0</string>
+    <string name="bpm_unit">bpm</string>
+    <string name="acceleration_text">0</string>
+    <string name="acceleration_unit">m/s</string>
+    <string name="temperature_text">0</string>
+    <string name="temperature_unit">°C</string>
+    <string name="humidity_text">0</string>
+    <string name="humidity_unit">%</string>
+
+    <string name="scan_message_edit">Enter the ID or scan the QRCode</string>
+
+    <string name="lastname">Lastname</string>
+    <string name="firstname">Firstname</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="birthday">Birthday</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="cm">cm</string>
+    <string name="kg">kg</string>
+
+    <string name="reset_password_text">Reset your Password</string>
+    <string name="change_email_text">Change your Email</string>
+    <string name="change_password_text">Change your Password</string>
+    <string name="delete_account_title">Account Suppression</string>
+    <string name="change_email_label">New Email</string>
+    <string name="change_password_label">New Password</string>
+    <string name="delete_account_label">Are you sure to delete your Account ?\nConfirm with your password</string>
+
+    <string name="missing_field_error">Missing field</string>
+    <string name="authentication_error">Email or Password invalid</string>
+    <string name="authentication_delete_error">Password invalid</string>
+    <string name="email_error">Email invalid</string>
+    <string name="register_exists_error">This account already exists</string>
+    <string name="register_password_error">The passwords are different</string>
+    <string name="download_file_error">Error downloading file</string>
+    <string name="dashboard_access_error">Cannot access current climb</string>
+
+    <string name="change_email_success">Your Email has been successfully changed</string>
+    <string name="change_password_success">Your Password has been successfully changed</string>
+    <string name="reset_password_success">Your Password has been successfully reset</string>
+    <string name="download_file_success">The file download is successful</string>
+
+    <string name="mapbox_access_token">sk.eyJ1IjoiY2xlcmNsZW0iLCJhIjoiY2xpMDE0ZjNyMWpiejNkcGN6czN5OXB6eSJ9.ftNyp-aBqkjh_VFJp_PhIA</string>
+</resources>

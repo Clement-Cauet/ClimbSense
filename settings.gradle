@@ -1,0 +1,27 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        maven { url 'https://jitpack.io' }
+        maven {
+            url 'https://api.mapbox.com/downloads/v2/releases/maven'
+            authentication {
+                basic(BasicAuthentication)
+            }
+            credentials {
+                username = "mapbox"
+                password = "sk.eyJ1IjoiY2xlcmNsZW0iLCJhIjoiY2xpMDE0ZjNyMWpiejNkcGN6czN5OXB6eSJ9.ftNyp-aBqkjh_VFJp_PhIA"
+            }
+        }
+    }
+}
+rootProject.name = "ClimbSense"
+include ':app'

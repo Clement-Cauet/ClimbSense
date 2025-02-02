@@ -1,8 +1,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/720f6cf6-b5f4-4788-bd81-ae4d1ba1e9ba" width="200px">
+  <h1>ClimbSense</h1>
 </div>
-
-ClimbSense
 
 ## Description
 ClimbSense est un projet innovant conçu pour les passionnés d'escalade. Il s'agit d'un système complet permettant de surveiller et d'améliorer la performance des grimpeurs en collectant des données précieuses lors de chaque ascension.
